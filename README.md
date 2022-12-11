@@ -1,2 +1,2 @@
 # Standard-Calculator
-This was my attempt to recreate the Standard Calculator by Microsoft
+This was my attempt to recreate the Standard Calculator by Microsoft. I was trying to make this as my Mini Project but ran out of time so had to switch to a simpler project. Incomplete as of now. Future plans include getting the damn thing to work, and making it interactive using tkinter. Note: this does not follow the BODMAS (Or PEMDAS or whichever you prefer) rule because neither does the Standard Calculator by Microsoft, for some reason.
